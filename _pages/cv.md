@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,45 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* Bachelor of Engineering, Shanghai Jiao Tong University, Shanghai, China, 2021 - Present
+  * Information Engineering  * 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024.2 - Present, SJTU-MAGIC(Multi-Agent Graph Intelligent Crew)
+  * Project: Collaborative autonomous driving with multi-modality language model
+  * Build dataset that is used for training and testing
+  * Design and train the planner to deal with output instructions of VLM
+  * Evaluate the performance of SOTA baselines in contrast to ours
+* 2023.7 - 2024.10, College Students' Innovative Entrepreneurial Training Plan Program
+  * Project: A Decision Support System for Post-Disaster Rescue
+  * Design the structure and implement the code of *Tasks Level* of the system
+  * Design and implement the User Interface of the system
+  * Build the data analysis and visualization module
+* 2024.7 - Present, Internship with Professor Yanchao Yang in HKU 
+  * Project: 3D reconstruction with sparse input
+  * Evaluate SOTA baselines(PixelSplat, Splatt3r)
+  * Modify baselines for custom tasks
+  * Try to combine mast3r backbone with NeRF(In Progress)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Skills
+* Programming
+  * Python, C++, Matlab, VHDL, Verilog, Labview
+* Hardware
+  * Microcontrollers, Soldering, PCB designing, FPGA
+* Software
+  * LaTeX, Markdown, Git, Qt, MS Office, Multisim, Solidworks
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Publications
+A paper under review at CVPR as a second author
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +52,12 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Awards
+* Meritorious Winner in 2023 Mathematical Contest in Modeling
+* First Prize in 2022 Chinese Mathematics Competitions (Non-Mathematics Category)
+* Excellent League Member of Shanghai Jiao Tong University in 2023
+* 2022,2023 Zhiyuan Honors Scholarship of Shanghai Jiao Tong University
+* 2022,2023 B level Scholarship of Shanghai Jiao Tong University
+* 2023 Shao Qiu Scholarship of Shanghai Jiao Tong University

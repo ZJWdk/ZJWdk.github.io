@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * Bachelor of Engineering, Shanghai Jiao Tong University, Shanghai, China, 2021 - Present
-  * Information Engineering  * 
+  * Information Engineering
 
 ## Research Experience
 

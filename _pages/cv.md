@@ -21,7 +21,7 @@ redirect_from:
   * Design and train the planner to deal with output instructions of VLM
   * Evaluate the performance of SOTA baselines in contrast to ours
 * 2023.7 - 2024.10, College Students' Innovative Entrepreneurial Training Plan Program
-  * Project: A Decision Support System for Post-Disaster Rescue
+  * Project: An Intelligent Decision Support System for Post-Disaster Rescue
   * Design the structure and implement the code of *Tasks Level* of the system
   * Design and implement the User Interface of the system
   * Build the data analysis and visualization module
@@ -40,7 +40,8 @@ redirect_from:
   * LaTeX, Markdown, Git, Qt, MS Office, Multisim, Solidworks
 
 ## Publications
-A paper under review at CVPR as a second author
+**CoVLMDriver: Language Communication Benefits Collaborative Autonomous Driving in Closed-Loop Planning**
+Manuscript in preparation for submission to CVPR 2025 (Co-author).
   
 <!-- Talks
 ======

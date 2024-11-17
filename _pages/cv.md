@@ -40,7 +40,7 @@ redirect_from:
   * LaTeX, Markdown, Git, Qt, MS Office, Multisim, Solidworks
 
 ## Publications
-**CoVLMDriver: Language Communication Benefits Collaborative Autonomous Driving in Closed-Loop Planning**
+**CoLMDriver: Language Negotiation Benefits Collaborative Autonomous Driving in Closed-Loop Planning**
 Manuscript in preparation for submission to CVPR 2025 (Co-author).
   
 <!-- Talks
